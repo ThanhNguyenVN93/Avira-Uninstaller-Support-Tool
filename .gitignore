@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# PowerShell scripts used during dev
+CreateIcon.ps1
